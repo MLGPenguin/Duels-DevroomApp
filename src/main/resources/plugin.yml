@@ -1,0 +1,6 @@
+name: Duels
+author: SuperPenguin
+version: '${version}'
+main: me.superpenguin.duels.Duels
+api-version: '1.20'
+description: A Duels Plugin!

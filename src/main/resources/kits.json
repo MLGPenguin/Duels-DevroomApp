@@ -1,0 +1,55 @@
+{
+  "default": "warrior",
+  "kits": [
+    {
+      "name": "warrior",
+      "armor_content": {
+        "helmet": {
+          "material": "LEATHER_HELMET",
+          "amount": 1
+        },
+        "chestplate": {
+          "material": "LEATHER_CHESTPLATE",
+          "amount": 1
+        },
+        "leggings": null,
+        "boots": {
+          "material": "LEATHER_BOOTS",
+          "amount": 1
+        }
+      },
+      "inventory_content": [
+        {
+          "slot": 0,
+          "material": "WOODEN_SWORD",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "legend",
+      "armor_content": {
+        "helmet": {
+          "material": "DIAMOND_HELMET",
+          "amount": 1
+        },
+        "chestplate": {
+          "material": "DIAMOND_CHESTPLATE",
+          "amount": 1
+        },
+        "leggings": null,
+        "boots": {
+          "material": "DIAMOND_BOOTS",
+          "amount": 1
+        }
+      },
+      "inventory_content": [
+        {
+          "slot": 0,
+          "material": "DIAMOND_SWORD",
+          "amount": 1
+        }
+      ]
+    }
+  ]
+}

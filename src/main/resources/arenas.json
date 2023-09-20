@@ -1,0 +1,15 @@
+[
+  {
+    "world": "world",
+    "player_one_spawn": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "player_two_spawn": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    }
+  }
+]
